@@ -1,0 +1,117 @@
+[Eagle]
+Version="06 01 00"
+Platform="Windows"
+Serial="7004B95A68-LSR-WLM-1CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/main.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/pinhead127_8.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/con-molex-usb.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/btn_small.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/MicroUSB.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/Inet/nrf5-eagle-reference-design/Library/Nordic_misc.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/Inet/nrf5-eagle-reference-design/Library/Nordic_nRF.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/mcp73831.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/Diodes.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/SparkFun-Switches.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/pinhead127.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/stm32l031g4.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/microbuilder.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/Texas Instruments_By_element14_Batch_1.lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/microusb (1).lbr"
+UsedLibrary="E:/Dropbox/EAGLE/_LIBRARY/Nordic_nRF.lbr"
+
+[Win_1]
+Type="Schematic Editor"
+Loc="280 40 1207 996"
+State=3
+Number=2
+File="main.sch"
+View="-147.013 -293.481 436.94 219.158"
+WireWidths=" 0 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.1524"
+PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
+PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
+ViaDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
+ViaDrills=" 0.5 0.7 0.8 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.6"
+HoleDrills=" 0.5 0.7 0.8 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.6"
+TextSizes=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.9304 2.1844 2.54 3.81 5.08 6.4516 1.778"
+PolygonSpacings=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 5.08 6.4516 1.27"
+PolygonIsolates=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
+MiterRadiuss=" 0.254 0.3175 0.635 1.27 2.54 1 2 2.5 5 7.5 10 0"
+SmdSizes=" 0.3048 0.1524 0.4064 0.2032 0.6096 0.3048 0.8128 0.4064 1.016 0.508 1.27 0.6604 1.4224 0.7112 1.6764 0.8128 1.778 0.9144 1.9304 0.9652 2.1844 1.0668 2.54 1.27 3.81 1.9304 5.08 2.54 6.4516 3.2512 1.27 0.635"
+WireBend=0
+WireBendSet=31
+WireCap=1
+MiterStyle=0
+PadShape=0
+ViaShape=0
+PolygonPour=0
+PolygonRank=0
+PolygonThermals=1
+PolygonOrphans=0
+TextRatio=8
+PinDirection=3
+PinFunction=0
+PinLength=2
+PinVisible=3
+SwapLevel=0
+ArcDirection=0
+AddLevel=2
+PadsSameType=0
+Layer=91
+Views=" 1: -147.013 -293.481 436.94 219.158"
+Sheet=1
+
+[Win_2]
+Type="Board Editor"
+Loc="1105 40 1919 1079"
+State=2
+Number=1
+File="main.brd"
+View="4.52116 -90.8356 54.813 8.83949"
+WireWidths=" 0 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.15 0.2"
+PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
+PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
+ViaDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
+ViaDrills=" 0.5 0.7 0.8 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.6"
+HoleDrills=" 0.5 0.7 0.8 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.6"
+TextSizes=" 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.9304 2.1844 2.54 3.81 5.08 6.4516 1.778 0.6"
+PolygonSpacings=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 5.08 6.4516 1.27"
+PolygonIsolates=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
+MiterRadiuss=" 0.254 0.3175 0.635 1.27 2.54 1 2 2.5 5 7.5 10 0"
+SmdSizes=" 0.3048 0.1524 0.4064 0.2032 0.6096 0.3048 0.8128 0.4064 1.016 0.508 1.27 0.6604 1.4224 0.7112 1.6764 0.8128 1.778 0.9144 1.9304 0.9652 2.1844 1.0668 2.54 1.27 3.81 1.9304 5.08 2.54 6.4516 3.2512 1.27 0.635"
+WireBend=0
+WireBendSet=0
+WireCap=1
+MiterStyle=0
+PadShape=0
+ViaShape=0
+PolygonPour=0
+PolygonRank=1
+PolygonThermals=1
+PolygonOrphans=0
+TextRatio=8
+PinDirection=3
+PinFunction=0
+PinLength=2
+PinVisible=3
+SwapLevel=0
+ArcDirection=0
+AddLevel=2
+PadsSameType=0
+Layer=1
+
+[Win_3]
+Type="Control Panel"
+Loc="480 117 1079 516"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
+Window="Win_2"
+Window="Win_3"
